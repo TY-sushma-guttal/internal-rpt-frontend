@@ -1,0 +1,118 @@
+.bg-btn {
+    background:  #146389 !important;
+  }
+  .cancelbtn-text {
+    color: #0f6f9a !important;
+  }
+  .submitbtn-bg {
+    background: #1181b2 !important;
+  }
+  .submitbtn-text {
+    color: #ffffff !important;
+  }
+  .textDecription {
+    color: #797a79;
+  }
+  
+  .box-border {
+    border: 1px solid #9fcce0 !important;
+  }
+  
+  .color-blue {
+    color: #1181b2 !important;
+  }
+  
+  .cursor-blue {
+    caret-color: #1181b2;
+  }
+  
+  .navbar-bg-color {
+    background-color: rgb(225, 234, 239);
+  }
+  
+  .subnavbar-bg-color {
+    background-color: #f8fdff;
+  }
+  
+  .subnavbar-gray {
+    color: #767676;
+  }
+  .tableHeadercolor {
+    color: #1181b2 !important;
+  }
+  .tableDividercolor {
+    background: #1181b2 !important;
+  }
+  
+  .text-gray {
+    color: #797a79 !important;
+  }
+  .rejectbtn-bg {
+    background: #b21111 !important;
+  }
+  .approvebtn-bg {
+    background: #0f9a34 !important;
+  }
+  .event-color {
+    background: #d216d2 !important;
+  }
+  .unassignedbtn-bg {
+    background: #ffd9fc6b !important;
+  }
+  .inprogressbtn-bg {
+    background: #baf9b16b !important;
+  }
+  .onassignbtn-bg {
+    background: #fdf1da6b !important;
+  }
+  .onassign-text {
+    color: #e9be2e !important;
+  }
+  .unassigned-text {
+    color: #b211a7 !important;
+  }
+  
+  .color-yellow {
+    color: #d5c007;
+  }
+  .color-star {
+    color: #e9be2e !important;
+  }
+  .color-gray {
+    color: #a6a6a6 !important;
+  }
+  .reject-bg {
+    background: #fff1f6 !important;
+  }
+  .reject-text {
+    color: #e80055 !important;
+  }
+  .accept-bg {
+    background: #e5ffe1 !important;
+  }
+  .accept-text {
+    color: #20a60b !important;
+  }
+  
+  .projectTableheadercolor {
+    color: #797a79 !important;
+  }
+  .projectTabletextcolor {
+    color: #1181b2 !important;
+  }
+  .opacity-5 {
+    opacity: 0.5 !important;
+  }
+
+    .background-light-blue {
+      background: #F8F9FB;
+    }
+  
+    .navbar-color {
+      background-color: #146389;
+    }
+
+    .add-btn-color-orange{
+      background-color: #FF9800 !important;
+    }
+  

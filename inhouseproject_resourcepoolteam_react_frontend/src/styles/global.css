@@ -1,0 +1,134 @@
+.hidescrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hidescrollbar {
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 20px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #cbcbcb;
+  border-radius: 20px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+
+/* cursor pointer */
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
+/* overflow */
+.overflowX-scroll {
+  overflow-x: scroll;
+}
+
+.overflowX-hidden {
+  overflow-x: hidden;
+}
+
+.overflowY-scroll {
+  overflow-y: scroll;
+}
+
+.overflowY-hidden {
+  overflow-y: hidden;
+}
+
+.mainWindow-Height {
+  height: calc(100vh - 200px) !important;
+}
+
+.toast-css {
+  border-radius: 0px !important;
+  min-height: 0 !important;
+  padding: 4px !important;
+  margin-bottom: 0 !important;
+  align-items: center !important;
+  background-color: #f0f3f9 !important;
+  box-shadow: none !important;
+  width: 600px;
+  opacity: 1;
+}
+
+.Toastify__toast--success {
+  border-left: 4px solid #79b62fdf !important;
+}
+
+.Toastify__toast--error {
+  border-left: 400px solid #0000005b !important;
+  color: black !important;
+}
+
+.Toastify__toast--info {
+  border-left: 4px solid #2b71f7 !important;
+}
+
+.toast-body {
+  margin: 0 auto;
+  padding: 6px !important;
+}
+
+.Toastify__toast-container--top-center {
+  top: 4.3em !important;
+  right: 0 !important;
+  left: 35% !important;
+  transform: none !important;
+}
+
+.react-toast-notifications__container {
+  z-index: 10000 !important;
+}
+
+.toast-component-container {
+  z-index: 100000 !important;
+}
+
+
+
+#loadContainer {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 2000;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.tableHeadercolor {
+  color: #1181b2 !important;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.loader{
+  background-color: "#fff";
+}
